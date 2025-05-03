@@ -3,7 +3,7 @@
 Este proyecto es una aplicación de consola en Java que permite cifrar o descifrar archivos de texto utilizando un desplazamiento de caracteres (tipo César).
 
 ## Estructura
-
+```bash
 ├── pom.xml
 ├── src
 │ └── main
@@ -15,7 +15,7 @@ Este proyecto es una aplicación de consola en Java que permite cifrar o descifr
 │ └── archivo.txt
 ├── target
 └── run.bat
-
+```
 
 ## Requisitos
 
